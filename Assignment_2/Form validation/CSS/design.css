@@ -1,0 +1,35 @@
+.form-container {
+            background-color: #e7e7e7;
+            border-radius: 40px;
+            padding: 15px;
+            width: 500px;
+            opacity: 0.90;
+            font-style: bold;
+        }
+
+.bgdesign{
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.right {
+  position: absolute;
+  margin: 5%;
+  left: 0px;
+  top: 20%;
+  width: 500px;
+  border: 2px solid #ffffff;
+  padding: 80px;
+}
+header {
+  background-color: rgb(236, 236, 236);
+  padding: 30px;
+  text-align: center;
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+}
+.img-size{
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+}
